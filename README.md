@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kundan Kumar
-- 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning and enhancing my knowledge in test automation
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning and enhancing my knowledge in Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
